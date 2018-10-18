@@ -54,3 +54,59 @@ javascript and inhiritance and prototype chain 6:8
 compairing es6 and es5
 
 creating blog on medium
+
+
+18-10-2018
+
+composition inhiritance
+js modules imp
+reuseibility
+composability
+levrage
+isolation
+organize
+
+each model ar three parent
+import 
+code
+export interface to the bundle
+
+file based
+explicit import model import
+explicit export  model export
+model is an object that keep information  regarding this function 
+
+
+common js implimetation 
+webpack
+bundle.js
+ 
+
+
+es modules
+path 
+es model is static 
+import statemetn is static
+tree shacking death
+
+dynamic import
+
+react router
+redux
+project
+ 
+ static routing
+
+ react router v4 just componant
+
+ route = 
+
+ browser
+
+ route rendering three method
+ match (match.URL)
+ location
+ history
+
+
+ur parameters
