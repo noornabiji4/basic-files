@@ -17,6 +17,6 @@ Person.prototype.eat= function (energy){
  
 const Person1 =  new Person ('Nabiji Noor' , 24)
 
-Person1
+console.log(Person1)
 
 
