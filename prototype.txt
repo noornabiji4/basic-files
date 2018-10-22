@@ -1,0 +1,28 @@
+
+what is constructor?
+
+Using this constructor you can create an object. Constructor every time creating new object.
+
+exmaple
+
+var person = function (name,age){
+    this.name = name
+    this.age = age
+    this.callname = function(){
+        return this.name
+}
+}
+var person1 = new person("noor")
+var person2 = new person("saif")
+console.log (person1.callname())
+console.log (person2.callname())
+
+
+ since person1 and person2 instence of person
+ they are actually distinct objects which means two
+ seprated objects they created person so it inherits all 
+ the property all the methods 
+
+person is a parent class 
+person1 is child class
+
