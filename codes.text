@@ -1,0 +1,19 @@
+mongo restart 
+sudo service mongod start
+
+react creat app
+npx create-react-app (product name)
+
+react cache cleaan install
+rm -rf node_modules && npm cache clean --force && npm install
+
+
+genrating express file
+express myapp -genrator
+
+
+node and react cachee cleen file 
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+
+
+
